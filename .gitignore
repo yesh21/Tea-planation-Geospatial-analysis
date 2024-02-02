@@ -1,0 +1,8 @@
+# inpyb checkpoints
+.ipynb_checkpoints/
+
+# dataset
+DataFiles/
+
+# figure
+/figure.png
